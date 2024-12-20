@@ -1,2 +1,2 @@
 # icp-desktop-release
-IC Project desktop releases
+Desktop application versions of IC Project.
